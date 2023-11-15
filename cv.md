@@ -35,7 +35,7 @@
 ```
 const person = {
    name: "Nick",
-   mood: "like"
+   mood: "good"
 }
 
 function greeting(param) {
