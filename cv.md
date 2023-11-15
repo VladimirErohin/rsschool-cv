@@ -1,7 +1,17 @@
 # Erohin Vladimir
 ### Frontend Developer
 
++ __Contacs__
 
+  +375297579733 :iphone:
+
+  vovaerohin1@gmail.com :envelope:
+
+  [Telegram](https://t.me/vladimir_E8) @vladimir_E8
+
+  [GitHub](https://github.com/VladimirErohin)
+
+  [Linkedin](https://www.linkedin.com/in/vladimir-erohin/)
 
 
 + __About__
