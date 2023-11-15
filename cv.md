@@ -28,7 +28,6 @@
     - React
     - Redux
     - Axios
-    - Node JS
 
 
 + __Code Example__
