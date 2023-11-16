@@ -31,6 +31,7 @@
 
 
 + __Code Example__
+
 ```
 const person = {
    name: "Nick",
@@ -44,9 +45,11 @@ function greeting(param) {
 greeting(person)
 ```
 
+
 + __Work Experience__
 
   My pet project [vpolprod.com](https://www.vpolprod.com/main) .
+
 
 
 + __Courses__
