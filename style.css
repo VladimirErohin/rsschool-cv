@@ -17,6 +17,16 @@ a {
     color: #43398a
 }
 
+i.fa{
+    font-size:20px;
+    color:#415c6a;
+}
+
+i.fa.phone{
+    font-size:28px;
+    color:#415c6a;
+}
+
 .link_cv_rs {
     color: #0366D6;
 }
